@@ -12,7 +12,6 @@ Full-stack Web Developer, passionate about crafting responsive web apps, optimiz
 * 🚀  I'm currently working on [Smart Brain App](http://smart-brain-cgkw.onrender.com/)
 * 🧠  I'm learning TailwindCSS & React
 * 🤝  I'm open to collaborating on MERN Stack Project
-* ⚡  I'm the son of Bill Gates, but dont tell anyone
 
 ### Skills
 
